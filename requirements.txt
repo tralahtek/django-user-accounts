@@ -1,0 +1,9 @@
+django
+django-storages
+django-phonenumber-field
+django-rest-framework
+django-countries-plus
+phonenumbers
+whitenoise
+africastalking
+fcm-django
